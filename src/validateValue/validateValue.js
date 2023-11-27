@@ -5,3 +5,5 @@ function validateValue(value) {
 
     return false;
 }
+
+module.exports = validateValue;
